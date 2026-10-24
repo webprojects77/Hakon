@@ -10,7 +10,7 @@ Ferramenta de desenvolvimento para Roblox, em Luau: assistência de mira, ESP e 
 - ESP com contorno através de paredes, nome, vida, distância e linhas até os alvos
 - Painel do alvo, sons de interface e atalho RightShift para abrir e fechar o menu
 
-**Instalação:** coloque `Hakon.client.lua` como `LocalScript` em `StarterPlayer > StarterPlayerScripts` no seu jogo.
+**Instalação:** coloque `script.lua` como `LocalScript` em `StarterPlayer > StarterPlayerScripts` no seu jogo.
 
 **Imagens de fundo:** envie as imagens para o Roblox, copie os IDs e cole na tabela `Assets` no topo do script (`rbxassetid://ID`).
 
@@ -30,7 +30,7 @@ Roblox development tool written in Luau: aim assist, ESP and a debug panel with 
 - ESP with through-wall outline, name, health, distance and tracers
 - Target panel, UI sounds and RightShift to toggle the menu
 
-**Installation:** place `Hakon.client.lua` as a `LocalScript` in `StarterPlayer > StarterPlayerScripts` in your own game.
+**Installation:** place `script.lua` as a `LocalScript` in `StarterPlayer > StarterPlayerScripts` in your own game.
 
 **Background images:** upload your images to Roblox, copy the IDs and paste them into the `Assets` table at the top of the script (`rbxassetid://ID`).
 
